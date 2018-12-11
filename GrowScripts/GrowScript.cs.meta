@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 613775c8d5fd3460fa285cda4a5da535
+timeCreated: 1540954806
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - flower1: {fileID: 1857977481865276, guid: 84680e69f0dcd4c1594b0621f98aab1a, type: 2}
+  - flower2: {fileID: 1430995006072482, guid: 1d53d152d34ee4354b2f8b052a528a33, type: 2}
+  - flower3: {fileID: 1857977481865276, guid: 4782b09d9ccb346b2aec7fb14f87924a, type: 2}
+  - flower4: {fileID: 1857977481865276, guid: bc439e05dadeb4ddaa644b778a37473a, type: 2}
+  - flower5: {fileID: 1857977481865276, guid: df50d9196bfa44ef3a55d6c023fcfe9a, type: 2}
+  - flower6: {fileID: 1857977481865276, guid: 4075419a0e4944e1e835c65edab2af5c, type: 2}
+  - lights: {instanceID: 0}
+  - flower: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
